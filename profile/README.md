@@ -84,4 +84,5 @@ With **esptool-js**, even beginners can confidently flash devices, while experie
 
 ## 🔍 SEO Keywords
 
-esptool-js, esptool js, webserial esp flasher, esp32 web flasher, browser esptool, flash esp32 in browser, esptool in chrome, esptool web serial, esptool-js v0.5.6, esptool js esp32h2 support, esptool-js latest release, esptool-js tutorial, w
+esptool-js, esptool js web serial, browser esp flasher, flash esp32 from browser, flash esp8266 in browser, webserial esp tool, esptool-js tutorial, esptool-js examples, esptool-js latest release, esptool-js v0.5.6, esptool browser tool, esptool-js documentation, web esptool utility, flash esp32 without python, esptool-js no install, esptool-js vs esptool.py, esptool-js chip detection, esp32 web flashing, esp8266 web flashing, web serial flash tool, esptool-js backup firmware, esptool-js error handling, how to flash esp32 in chrome, esptool-js npm package, esptool-js TypeScript, esptool-js open source, esptool-js GUI, esptool-js for workshops, esptool-js for education
+
